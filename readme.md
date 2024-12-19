@@ -4,7 +4,7 @@
     </a>
 </div>
 <h1 align="left"><b>Hi, I'm Radmir Uzyanbaev</b>:wave:</h1>
-<p>Hi! My name is Radmir Uzyanbaev and I'm currently 16 years old. I'm in the 10th grade, preparing for exams. I have a keen interest in frontend development and Python</p>
+<p>Hi! My name is Radmir Uzyanbaev and I'm currently 17 years old. I'm in the 10th grade, preparing for exams. I have a keen interest in frontend development and Python</p>
 
 <p align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
